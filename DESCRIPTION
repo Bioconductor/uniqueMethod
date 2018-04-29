@@ -1,0 +1,8 @@
+Package: uniqueMethod
+Title: A "unique" method
+Description: A minimalist R package that only defines a "unique" S4 method.
+Version: 0.0.1
+Author: The Boss Baby
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+License: Artistic-2.0
+Imports: methods
